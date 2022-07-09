@@ -12,7 +12,7 @@ import pandas as pd
 import numpy as np
 
 
-# Defining source and output directions
+# Defining source and output directories
 source_file = 'labels_BPIC12.xlsx'
 source_path = '/Users/tobisturm/Library/CloudStorage/OneDrive-UniversitätBayreuth/01 Masterarbeit/03 Data/01 Logs/01_event_labels/{}'.format(source_file)
 
