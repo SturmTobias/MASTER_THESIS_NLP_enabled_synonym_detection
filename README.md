@@ -1,2 +1,2 @@
-# NLP_enabled_synonym_detection
-comming soon
+# MASTER_THESIS_NLP_enabled_synonym_detection
+
