@@ -1,6 +1,6 @@
-# MASTER_THESIS_NLP_enabled_synonym_detection
+## MASTER_THESIS_NLP_enabled_synonym_detection
 
-In the following the structure and contents of this repository are outlined.
+### In the following the structure and contents of this repository are outlined.
 
 1. 01_Code: Includes all Jupyter Notebooks with the code that is relevant for the thesis; 
           each Notebook starts with a short introduction with the purpose of the code
