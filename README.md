@@ -13,7 +13,7 @@ each Notebook starts with a short introduction with the purpose of the code
 -         InternationalDeclarations_manipulated: Manipulated event log for evaluating the applicability of the approach
 -         InternationalDeclarations_repariert: Event log after implementing the recommendations of the approach
           
-3. 03_Results: This folder contains four excel files with the evaluation results
+03_Results: This folder contains four excel files with the evaluation results
 -         eval_without_fine tuning: Evaluation results with out fine-tuning the model
 -         model_training_regression_domain: Evaluation and training results for evaluating the generalizability of the approach across domain
 -         model_training_regression: Results of fine-tuning the bi-encoder on all 14 domains
