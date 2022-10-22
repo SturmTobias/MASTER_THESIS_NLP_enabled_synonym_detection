@@ -6,7 +6,7 @@ In the following the structure and contents of this repository are outlined.
           each Notebook starts with a short introduction with the purpose of the code
     
 2. 02_Data: Includes all the data used within the thesis OR created during the thesis
--         01_labels_original: These are the original activity labels retrieved from the TU Eindhoven
+-         - 01_labels_original: These are the original activity labels retrieved from the TU Eindhoven
           - 02_labels_adjusted: These are the adjusted labels; the adjustments mainly refer to replacements of abbreviations (see thesis section 5.1); 
                                these labels are used for further processing
           - 03_labels_augmented: This file contains all augmented labels with the WordNet enginge. We retrieved 10 synonyms for each of the       
