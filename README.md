@@ -17,8 +17,8 @@ In the following the structure and contents of this repository are outlined.
           - InternationalDeclarations_repariert: Event log after implementing the recommendations of the approach
           
 3. 03_Results: This folder contains four excel files with the evaluation results
-          - eval_without_fine tuning: Evaluation results with out fine-tuning the model
-          - model_training_regression_domain: Evaluation and training results for evaluating the generalizability of the approach across domain
-          - model_training_regression: Results of fine-tuning the bi-encoder on all 14 domains
-          - scores_prototype: Similarity matrix with all the scorings of the manipulated event log during evaluation of applicability
+-         eval_without_fine tuning: Evaluation results with out fine-tuning the model
+-         model_training_regression_domain: Evaluation and training results for evaluating the generalizability of the approach across domain
+-         model_training_regression: Results of fine-tuning the bi-encoder on all 14 domains
+-         scores_prototype: Similarity matrix with all the scorings of the manipulated event log during evaluation of applicability
           
